@@ -1,5 +1,5 @@
 ### Ann Tarasova
-![photo](c:/Users/Ania/Downloads/photo.jpg"me")
+![photo](c://Ania/Downloads/photo.jpg"me")
 -------------------------------
 #### ***contacts:***
 * Pnone number: +375(33)69-8-33-24
