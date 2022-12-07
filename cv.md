@@ -33,5 +33,5 @@ and I started stading new courses JavaScreapt/Front-End.stage0
 -----------------------------
 #### ***Languages***
 + English A2-B1
-+ Russian
++ Russian (native)
 + Belarussian
