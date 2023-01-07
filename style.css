@@ -1,13 +1,17 @@
-body {
-  background-color: lightblue;
-}
 
-h1 {
-  color: white;
+.center{
   text-align: center;
 }
-
-p {
-  font-family: verdana;
-  font-size: 20px;
+h2 {
+  color: #0b7979;
+}
+.background{
+  color: aliceblue;
+  background: black;
+}
+h1 {
+  text-align: center;
+}
+.right {
+  text-align: right;
 }
