@@ -15,3 +15,14 @@ h1 {
 .right {
   text-align: right;
 }
+
+.coolImage{
+  width: 100px;
+  height: 150px;
+  background: url(https://github.com/dedushkya/rsschool-cv/blob/gh-pages/photo_2022-07-23_11-31-04.jpg?raw=true);
+  background-size: cover;
+}
+
+.img{
+  text-align: right;
+}
